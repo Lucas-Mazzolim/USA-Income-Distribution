@@ -1,3 +1,5 @@
+# Income Distribution in the U.S
+
 In this work, we conducted a complete Data Intelligence process, where we extracted, cleaned, analyzed, and prepared data for visualization. Our objective is to represent 
 the distribution of American income and how it differs depending on factors such as gender, educational level, and work class. We extracted the data from a dataset provided 
 by the Bureau of Labor Statistics, a renowned American institute. We then used Excel to clean and analyze the data, and finally, created a visualization in Looker Studio, 
